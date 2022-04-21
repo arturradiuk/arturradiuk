@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturradiuk&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=arturradiuk&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
+
 ### Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arturradiuk&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
