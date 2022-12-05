@@ -26,11 +26,6 @@
 ### Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arturradiuk&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-
-### Graph
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=arturradiuk&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=arturradiuk&theme=dracula)
-
-
 <!--
 **arturradiuk/arturradiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
